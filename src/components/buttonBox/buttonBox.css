@@ -1,0 +1,19 @@
+#buttonContainer{
+    width:300px;
+    height:300px;
+    margin-right: 20px;
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.my-table {
+    display: table;
+  }
+  
+  .table-row {
+    display: table-row;
+  }
+  
+  .table-cell {
+    display: table-cell;
+  }

@@ -1,0 +1,23 @@
+.drum-pad{
+    width: 90px;
+    height:90px;
+    background-color: rgb(225, 16, 16);
+    height:calc(33.33% - 20px);
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 12px;
+    cursor: pointer;
+    border-radius: 15%;
+    color: BLACK;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    -webkit-box-shadow: 8px 10px 16px -9px rgba(253, 7, 7, 1);
+    -moz-box-shadow: 8px 10px 16px -9px rgba(253, 7, 7, 1);
+    box-shadow: 8px 10px 16px -9px rgba(253, 7, 7, 1);
+}
+
+button:active {
+    background-color: #4CAF50;
+    box-shadow: 0 5px #786666;
+    transform: translateY(4px);
+  }
